@@ -42,3 +42,13 @@ git push origin master
 ```
 
 Here is a test change to the readme
+
+
+
+# Git reset
+
+Reset to a state!!
+
+```
+git reset --hard origin/master # or a specific commit
+```
