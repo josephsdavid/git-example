@@ -52,3 +52,9 @@ Reset to a state!!
 ```
 git reset --hard origin/master # or a specific commit
 ```
+
+
+# Useful git tutorials
+
+[awesome atlassian tutorial](https://www.atlassian.com/git)
+[learn git branching!!](https://learngitbranching.js.org/)
